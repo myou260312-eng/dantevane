@@ -38,13 +38,13 @@ digital-twins_init.py/
 ## ROCm / HIP Learning Reference
 
 ### Module 4 Objectives
-![Module 4 Objectives](images/01_module4_objectives.jpg)
+![Module 4 Objectives](01_module4_objectives.jpg)
 
 ### Host-Device Programming
-![Host-Device Programming](images/02_host_device_programming.jpg)
+![Host-Device Programming](02_host_device_programming.jpg)
 
 ### Vector Addition Schema
-![Vector Addition Schema](images/03_vector_addition_schema.jpg)
+![Vector Addition Schema](03_vector_addition_schema.jpg)
 
 ### Vector Addition Kernel
-![Vector Addition Kernel](images/04_vector_addition_kernel.jpg)
+![Vector Addition Kernel](04_vector_addition_kernel.jpg)
